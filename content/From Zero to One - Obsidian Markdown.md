@@ -1,0 +1,1 @@
+The way to get started with Obsidian is to avoid unfamiliar systems and capitalize on your own. If you do not have a personal system, do not create a system around Obsidian, create a system around what you do. Once you have a system, add what you want to do.

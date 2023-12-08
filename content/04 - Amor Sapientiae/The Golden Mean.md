@@ -1,6 +1,13 @@
-#🌱_Seedling 
-#ethics
-#concept 
+---
+title:
+draft:
+tags:
+- #seedling 
+- #ethics
+- #concept 
+---
+
+Go Home [[index]]
 [[Aristotle's Ethics]]
 [[Virtue]]
 [[Vice]]

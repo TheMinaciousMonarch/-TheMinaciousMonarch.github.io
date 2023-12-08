@@ -1,14 +1,20 @@
-Go Home [[00 - Index/index]]
+---
+title:
+draft:
+tags:
 #index
+---
+
+Go Home [[index]]
 
 ---
 
 ## Definitions
 
-Index - Notes Designed to Organize Content on a Specific Topic
+Index - Notes Designed to Organize Content on a Specific Topic <br>
 
-Wikis - Collections of Content Related to a Specific Topic
+Wikis - Collections of Content Related to a Specific Topic <br>
 
-Logs - Me Keeping Track of Particular Things
+Logs - Me Keeping Track of Particular Things <br>
 
 ---

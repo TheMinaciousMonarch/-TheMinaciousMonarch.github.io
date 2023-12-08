@@ -1,5 +1,12 @@
-#🌱_Seedling 
-#concept
+---
+title:
+draft:
+tags:
+- #seedling 
+- #concept
+---
+
+Go Home [[index]]
 [[Self-Interest Causes Harm]]
 [[Anti-Capitalist Arguments]]
 

@@ -1,4 +1,11 @@
-#🌱_Seedling 
+---
+title:
+draft:
+tags:
+- #seedling 
+---
+
+Go Home [[index]]
 [[Archimedes]]
 [[Ancient Greek Stories]]
 

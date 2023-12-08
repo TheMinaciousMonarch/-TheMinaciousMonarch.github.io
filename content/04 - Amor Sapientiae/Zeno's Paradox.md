@@ -1,5 +1,12 @@
-#🌱_Seedling 
+---
+title:
+draft:
+tags:
+#seedling 
 #argument 
+---
+
+Go Home [[index]]
 [[Ancient Greek Philosophy]]
 [[Infinity Cannot Be Divided]]
 

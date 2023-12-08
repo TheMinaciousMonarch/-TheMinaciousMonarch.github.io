@@ -1,5 +1,12 @@
-#🌱_Seedling 
-#scenario
+---
+title:
+draft:
+tags:
+- #seedling 
+- #scenario
+---
+
+Go Home [[index]]
 [[Ancient Greek Philosophy]]
 
 ---

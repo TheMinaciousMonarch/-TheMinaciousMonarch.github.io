@@ -1,6 +1,13 @@
-#🌱_Seedling 
-#theology
-#argument 
+---
+title:
+draft:
+tags:
+- #seedling 
+- #theology
+- #argument 
+---
+
+Go Home [[index]]
 [[Arguments for the Existence of God]]
 [[Kalam]]
 

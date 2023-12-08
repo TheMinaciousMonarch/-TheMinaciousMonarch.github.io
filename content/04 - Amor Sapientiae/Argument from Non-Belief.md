@@ -1,6 +1,13 @@
-#🌱_Seedling 
-#theology
-#argument 
+---
+title:
+draft:
+tags:
+- #eedling 
+- #theology
+- #argument 
+---
+
+Go Home [[index]]
 [[Arguments Against the Existence of God]]
 
 ---

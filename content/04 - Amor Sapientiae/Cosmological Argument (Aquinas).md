@@ -1,6 +1,13 @@
-#🌱_Seedling 
-#theory 
-#argument 
+---
+title:
+draft:
+tags:
+- #seedling 
+- #theory 
+- #argument 
+---
+
+Go Home [[index]]
 [[Thomas Aquinas]]
 [[Arguments for the Existence of God]]
 

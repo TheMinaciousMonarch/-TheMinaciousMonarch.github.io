@@ -1,6 +1,15 @@
-#🌱_Seedling 
-#argument 
+---
+title:
+draft:
+tags:
+- #seedling 
+- #argument 
+---
+
+Go Home [[index]]
 [[Logical Fallacy]]
+
+---
 
 ---
 

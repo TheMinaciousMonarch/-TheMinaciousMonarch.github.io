@@ -1,5 +1,12 @@
-#🌱_Seedling 
-#scenario 
+---
+title:
+draft:
+tags:
+- #seedling 
+- #scenario 
+---
+
+Go Home [[index]]
 [[John Rawls]]
 [[People Are More Fair When Designing A System Which May Harm Them]]
 

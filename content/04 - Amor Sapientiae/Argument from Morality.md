@@ -1,7 +1,14 @@
-#🌱_Seedling 
-#ethics
-#theology
-#argument
+---
+title:
+draft:
+tags:
+- eedling 
+- #ethics
+- #theology
+- #argument
+---
+
+Go Home [[index]]
 [[Arguments for the Existence of God]]
 [[Objective Morality]]
 

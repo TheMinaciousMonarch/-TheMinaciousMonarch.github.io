@@ -1,4 +1,11 @@
-#🌱_Seedling 
+---
+title:
+draft:
+tags:
+- #seedling 
+---
+
+Go Home [[index]]
 [[Aid to Argumentation]]
 
 ---

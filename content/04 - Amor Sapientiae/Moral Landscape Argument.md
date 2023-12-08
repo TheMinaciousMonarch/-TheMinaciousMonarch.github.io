@@ -1,6 +1,13 @@
-#🌱_Seedling 
-#ethics
-#argument 
+---
+title:
+draft:
+tags:
+- #seedling 
+- #ethics
+- #argument 
+---
+
+Go Home [[index]]
 [[Objective Morality]]
 
 ---

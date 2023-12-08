@@ -1,8 +1,14 @@
-#🌱_Seedling 
-#concept 
+---
+title:
+draft:
+tags:
+- #seedling 
+- #concept 
+---
+
+Go Home [[index]]
 [[The World is Illusion]]
 [[Hindu Philsophy]]
-
 
 ---
 

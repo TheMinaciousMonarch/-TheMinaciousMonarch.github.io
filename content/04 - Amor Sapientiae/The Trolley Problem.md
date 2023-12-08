@@ -1,6 +1,13 @@
-#🌱_Seedling 
-#ethics
-#scenario 
+---
+title:
+draft:
+tags:
+- #seedling 
+- #ethics
+- #scenario 
+---
+
+Go Home [[index]]
 [[Duty to Act]]
 
 ---

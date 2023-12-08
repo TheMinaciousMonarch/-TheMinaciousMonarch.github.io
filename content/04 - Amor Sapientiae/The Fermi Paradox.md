@@ -1,5 +1,12 @@
-#🌱_Seedling 
-#question 
+---
+title:
+draft:
+tags:
+- #seedling 
+- #question 
+---
+
+Go Home [[index]]
 [[Probability]]
 
 ---

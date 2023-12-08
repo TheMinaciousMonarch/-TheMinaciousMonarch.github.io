@@ -1,5 +1,11 @@
-Go Home [[00 - Index/index]]
+---
+title:
+draft:
+tags:
 #index
+---
+
+Go Home [[index]]
 
 ---
 

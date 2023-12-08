@@ -1,7 +1,14 @@
-#🌱_Seedling 
-#ethics
-#theology 
-#question
+---
+title:
+draft:
+tags:
+- #seedling 
+- #ethics
+- #theology 
+- #question
+---
+
+Go Home [[index]]
 [[Origin of Morality]]
 
 ---

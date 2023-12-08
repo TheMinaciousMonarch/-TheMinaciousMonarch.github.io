@@ -1,5 +1,12 @@
-#theology_branch
-#theology
+---
+title:
+draft:
+tags:
+- #theology_branch
+- #theology
+---
+
+Go Home [[index]]
 [[Christian Doctrine]]
 
 ---

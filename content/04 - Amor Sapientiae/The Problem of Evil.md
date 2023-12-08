@@ -1,7 +1,14 @@
-#🌱_Seedling 
-#theology
-#ethics
-#debate
+---
+title:
+draft:
+tags:
+- #seedling 
+- #theology
+- #ethics
+- #debate
+---
+
+Go Home [[index]]
 [[Evil]]
 [[Good]]
 

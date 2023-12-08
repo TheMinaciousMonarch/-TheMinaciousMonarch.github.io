@@ -1,5 +1,12 @@
-#🌱_Seedling 
-#argument 
+---
+title:
+draft:
+tags:
+- #seedling 
+- #argument
+---
+
+Go Home [[index]]
 [[Multiple-Worlds Theory]]
 [[Arguments from Infinity]]
 

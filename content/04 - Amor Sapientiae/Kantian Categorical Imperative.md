@@ -1,5 +1,12 @@
-#🌱_Seedling 
-#ethics
+---
+title:
+draft:
+tags:
+- #seedling 
+- #ethics
+---
+
+Go Home [[index]]
 [[Immanuel Kant]]
 
 ---

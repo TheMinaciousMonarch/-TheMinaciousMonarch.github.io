@@ -1,6 +1,13 @@
-#🌱_Seedling 
-#theology
-#argument 
+---
+title:
+draft:
+tags:
+- #seedling 
+- #argument 
+---
+
+Go Home [[index]]
+[[Logical Fallacy]]
 [[Arguments for the Existence of God]]
 
 ---

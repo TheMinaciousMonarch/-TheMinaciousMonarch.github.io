@@ -1,5 +1,3 @@
-  
-![Keto BLT with cloud bread](https://i.dietdoctor.com/wp-content/uploads/2016/03/BLT.jpg?auto=compress%2Cformat&w=1200&h=800&fit=crop)
 
 # Keto BLT with cloud bread
 

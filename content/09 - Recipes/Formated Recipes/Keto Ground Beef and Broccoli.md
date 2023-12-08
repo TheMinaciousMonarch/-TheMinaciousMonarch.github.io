@@ -1,6 +1,4 @@
 
-![Keto ground beef and broccoli](https://i.dietdoctor.com/wp-content/uploads/2017/10/DD-525-ketomincedbeefbroccoli.jpg?auto=compress%2Cformat&w=1200&h=800&fit=crop)
-
 # Keto ground beef and broccoli
 
 #Recipe 

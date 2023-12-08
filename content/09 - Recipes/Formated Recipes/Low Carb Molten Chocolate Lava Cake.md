@@ -1,4 +1,3 @@
-![Low carb molten chocolate lava cake](https://i.dietdoctor.com/wp-content/uploads/2016/11/DD-196.jpg?auto=compress%2Cformat&w=1200&h=800&fit=crop)
 
 # Low carb molten chocolate lava cake
 

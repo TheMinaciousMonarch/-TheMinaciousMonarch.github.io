@@ -1,6 +1,4 @@
 #Recipe 
-![Keto fried chicken with broccoli](https://i.dietdoctor.com/wp-content/uploads/2017/10/DD-521-ketochickenbroccoli-.jpg?auto=compress%2Cformat&w=1200&h=800&fit=crop)
-
 #Recipe/Lunch 
 
 # Keto fried chicken with broccoli

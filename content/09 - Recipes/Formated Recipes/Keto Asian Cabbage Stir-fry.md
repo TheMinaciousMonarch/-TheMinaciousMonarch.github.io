@@ -1,6 +1,4 @@
 
-![Keto Asian cabbage stir-fry](https://i.dietdoctor.com/wp-content/uploads/2016/10/DD-242.jpg?auto=compress%2Cformat&w=1200&h=800&fit=crop)
-
 # Keto Asian cabbage stir-fry
 
 #Recipe 

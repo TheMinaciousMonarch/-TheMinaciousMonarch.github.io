@@ -1,17 +1,18 @@
-
-![Scrambled eggs](https://i.dietdoctor.com/wp-content/uploads/2015/12/DD-46-3.jpg?auto=compress%2Cformat&w=1200&h=800&fit=crop)
-
+---
+tags:
+  - Recipe
+  - Recipe/Breakfast
+---
 # Scrambled eggs
 
-#Recipe 
-#Recipe/Breakfast 
-
+---
 ### Ingredients (1 Servings)
 
 -   2 tbsp butter
 -   3 large eggs
 -   salt and pepper
 
+---
 ### Instructions
 
 1.  Crack the eggs into a small bowl and use a fork to whisk them together with some salt and pepper.

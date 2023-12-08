@@ -1,4 +1,3 @@
-Photo
 
 # Keto Mini Quiche Lorraine
 

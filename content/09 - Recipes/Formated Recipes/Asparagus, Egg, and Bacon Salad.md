@@ -1,6 +1,4 @@
 
-![Asparagus, egg and bacon salad](https://i.dietdoctor.com/wp-content/uploads/2019/06/asparagus_egg_bacon_salad_h.jpg?auto=compress%2Cformat&w=1200&h=797&fit=crop)
-
 # Asparagus, egg and bacon salad
 
 #Recipe 

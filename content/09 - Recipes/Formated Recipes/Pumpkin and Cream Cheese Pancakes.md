@@ -1,4 +1,4 @@
-Photo
+
 
 # Pumpkin and Cream Cheese Pancakes
 

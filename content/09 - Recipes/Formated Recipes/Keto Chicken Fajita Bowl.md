@@ -1,6 +1,4 @@
 #Recipe 
-![Keto chicken fajita bowl](https://i.dietdoctor.com/wp-content/uploads/2017/11/DD-535-KetoChickenFajitabowl.jpg?auto=compress%2Cformat&w=1200&h=800&fit=crop)
-
 #Recipe/Breakfast #Recipe/Brunch #Recipe/Lunch 
 # Keto chicken fajita bowl
 

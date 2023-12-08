@@ -1,6 +1,4 @@
 
-![Keto chicken casserole](https://i.dietdoctor.com/wp-content/uploads/2015/11/DD-7b.jpg?auto=compress%2Cformat&w=1200&h=800&fit=crop)
-
 # Keto chicken casserole
 
 #Recipe 

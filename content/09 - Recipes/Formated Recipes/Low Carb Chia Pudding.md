@@ -1,4 +1,3 @@
-![Low carb chia pudding](https://i.dietdoctor.com/wp-content/uploads/2016/06/DD-156.jpg?auto=compress%2Cformat&w=1200&h=800&fit=crop)
 
 # Low carb chia pudding
 

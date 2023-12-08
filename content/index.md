@@ -1,8 +1,3 @@
----
-tags:
-- #index
----
-
 "To attain knowledge, add more every day. To attain wisdom, remove more every day." - Lao Tzu
 
 ---

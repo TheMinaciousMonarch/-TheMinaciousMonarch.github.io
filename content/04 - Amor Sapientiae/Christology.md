@@ -1,6 +1,3 @@
----
-title:
-draft:
 tags:
 - #theology_branch
 - #theology

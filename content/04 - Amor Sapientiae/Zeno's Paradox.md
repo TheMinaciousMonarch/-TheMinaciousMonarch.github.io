@@ -1,9 +1,6 @@
----
-title:
-draft:
 tags:
-#seedling 
-#argument 
+- #seedling 
+- #argument 
 ---
 
 Go Home [[index]]

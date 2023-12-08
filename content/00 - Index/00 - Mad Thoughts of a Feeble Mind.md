@@ -1,9 +1,5 @@
----
-title:
-draft:
 tags:
-#index
----
+- #index
 
 Go Home [[index]]
 

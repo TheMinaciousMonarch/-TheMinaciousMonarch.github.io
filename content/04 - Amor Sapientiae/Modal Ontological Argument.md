@@ -1,11 +1,10 @@
-tags:
-- #seedling 
-- #argument
 ---
-
-Go Home [[index]]
-[[Multiple-Worlds Theory]]
-[[Arguments from Infinity]]
+tags:
+  - seedling
+  - argument
+---
+[[Multiple-Worlds Theory]] <br>
+[[Arguments from Infinity]] <br>
 
 ---
 

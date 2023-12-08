@@ -1,12 +1,11 @@
-tags:
-- #seedling
 ---
-
-Go Home [[index]]
-[[Ancient Greek Stories]]
-[[Simple Life]]
-[[Pleasure]]
-[[Absence of Pain]]
+tags:
+  - seedling
+---
+[[Ancient Greek Stories]] <br>
+[[Simple Life]] <br>
+[[Pleasure]] <br>
+[[Absence of Pain]] <br>
 
 ---
 

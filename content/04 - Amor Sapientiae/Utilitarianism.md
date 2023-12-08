@@ -1,12 +1,12 @@
+---
 tags:
-- #seedling 
-- #ethics
+  - seedling
+  - ethics
 ---
 
-Go Home [[index]]
-[[Consequentialist Ethics]]
-[[Jeremy Bentham]]
-[[John Stuart Mill]]
+[[Consequentialist Ethics]] <br>
+[[Jeremy Bentham]] <br>
+[[John Stuart Mill]] <br>
 
 ---
 Utilitarianism

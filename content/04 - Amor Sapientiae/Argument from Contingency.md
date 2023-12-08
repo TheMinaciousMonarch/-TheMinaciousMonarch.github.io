@@ -1,11 +1,10 @@
-tags:
-- #seedling 
-- #argument 
 ---
-
-Go Home [[index]]
-[[Logical Fallacy]]
-[[Arguments for the Existence of God]]
+tags:
+  - seedling
+  - argument
+---
+[[Logical Fallacy]] <br>
+[[Arguments for the Existence of God]] <br>
 
 ---
 

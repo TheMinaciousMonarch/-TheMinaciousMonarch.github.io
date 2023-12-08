@@ -1,12 +1,9 @@
+---
 tags:
-- #seedling 
-- #argument 
+  - seedling
+  - argument
 ---
-
-Go Home [[index]]
-[[Logical Fallacy]]
-
----
+[[Logical Fallacy]] <br>
 
 ---
 

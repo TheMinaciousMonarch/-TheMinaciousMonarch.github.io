@@ -1,11 +1,10 @@
-tags:
-- #seedling 
-- #theology
-- #argument 
 ---
-
-Go Home [[index]]
-[[Design Implies Designer]]
+tags:
+  - seedling
+  - theology
+  - argument
+---
+[[Design Implies Designer]] <br>
 
 ---
 

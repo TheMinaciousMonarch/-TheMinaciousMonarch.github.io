@@ -1,10 +1,9 @@
-tags:
-- #seedling 
-- #concept 
 ---
-
-Go Home [[index]]
-[[Ancient Greek Philosophy]]
+tags:
+  - seedling
+  - concept
+---
+[[Ancient Greek Philosophy]] <br>
 
 ---
 

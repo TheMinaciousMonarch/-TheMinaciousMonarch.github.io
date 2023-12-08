@@ -1,10 +1,9 @@
-tags:
-- #seedling 
 ---
-
-Go Home [[index]]
-[[Aid to Argumentation]]
-[[We Should Seek Few Assumptions]]
+tags:
+  - seedling
+---
+[[Aid to Argumentation]] <br>
+[[We Should Seek Few Assumptions]] <br>
 
 ___
 

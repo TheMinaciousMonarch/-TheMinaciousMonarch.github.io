@@ -1,10 +1,9 @@
-tags:
-- #seedling 
-- #concept 
 ---
-
-Go Home [[index]]
-[[Barry Schwartz]]
+tags:
+  - seedling
+  - concept
+---
+[[Barry Schwartz]] <br>
 
 ---
 

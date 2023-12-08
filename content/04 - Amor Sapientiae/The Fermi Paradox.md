@@ -1,10 +1,9 @@
-tags:
-- #seedling 
-- #question 
 ---
-
-Go Home [[index]]
-[[Probability]]
+tags:
+  - seedling
+  - question
+---
+[[Probability]] <br>
 
 ---
 

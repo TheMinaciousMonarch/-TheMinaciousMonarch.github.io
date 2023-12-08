@@ -1,11 +1,10 @@
-tags:
-- #seedling 
-- #scenario 
 ---
-
-Go Home [[index]]
-[[John Rawls]]
-[[People Are More Fair When Designing A System Which May Harm Them]]
+tags:
+  - seedling
+  - scenario
+---
+[[John Rawls]] <br>
+[[People Are More Fair When Designing A System Which May Harm Them]] <br>
 
 ---
 

@@ -1,10 +1,9 @@
-tags:
-- #seedling 
-- #ethics
 ---
-
-Go Home [[index]]
-[[Immanuel Kant]]
+tags:
+  - seedling
+  - ethics
+---
+[[Immanuel Kant]] <br>
 
 ---
 

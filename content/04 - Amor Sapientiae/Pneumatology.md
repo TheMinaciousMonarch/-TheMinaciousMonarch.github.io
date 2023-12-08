@@ -1,10 +1,10 @@
+---
 tags:
-- #theology_branch
-- #theology
+  - theology_branch
+  - theology
 ---
 
-Go Home [[index]]
-[[The Holy Spirit]]
+[[The Holy Spirit]] <br>
 
 ---
 

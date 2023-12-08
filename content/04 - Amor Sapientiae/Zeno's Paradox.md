@@ -1,11 +1,10 @@
-tags:
-- #seedling 
-- #argument 
 ---
-
-Go Home [[index]]
-[[Ancient Greek Philosophy]]
-[[Infinity Cannot Be Divided]]
+tags:
+  - seedling
+  - argument
+---
+[[Ancient Greek Philosophy]] <br>
+[[Infinity Cannot Be Divided]] <br>
 
 ---
 

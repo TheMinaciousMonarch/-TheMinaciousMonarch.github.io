@@ -1,10 +1,9 @@
-tags:
-- #theology_branch
-- #theology
 ---
-
-Go Home [[index]]
-[[Is this the study of how theology is studied?]]
+tags:
+  - theology_branch
+  - theology
+---
+[[Is this the study of how theology is studied?]] <br>
 
 ---
 

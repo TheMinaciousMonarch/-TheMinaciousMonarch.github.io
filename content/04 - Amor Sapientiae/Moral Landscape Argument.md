@@ -1,11 +1,10 @@
-tags:
-- #seedling 
-- #ethics
-- #argument 
 ---
-
-Go Home [[index]]
-[[Objective Morality]]
+tags:
+  - seedling
+  - ethics
+  - argument
+---
+[[Objective Morality]] <br>
 
 ---
 

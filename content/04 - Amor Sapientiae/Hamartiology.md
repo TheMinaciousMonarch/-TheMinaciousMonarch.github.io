@@ -1,10 +1,9 @@
-tags:
-- #theology_branch
-- #theology
 ---
-
-Go Home [[index]]
-[[Sin]]
+tags:
+  - theology_branch
+  - theology
+---
+[[Sin]] <br>
 
 ---
 

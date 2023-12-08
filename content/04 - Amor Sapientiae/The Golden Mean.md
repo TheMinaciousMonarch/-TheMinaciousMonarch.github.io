@@ -1,14 +1,13 @@
-tags:
-- #seedling 
-- #ethics
-- #concept 
 ---
-
-Go Home [[index]]
-[[Aristotle's Ethics]]
-[[Virtue]]
-[[Vice]]
-[[Moderation]]
+tags:
+  - seedling
+  - ethics
+  - concept
+---
+[[Aristotle's Ethics]] <br>
+[[Virtue]] <br>
+[[Vice]] <br>
+[[Moderation]] <br>
 
 ---
 

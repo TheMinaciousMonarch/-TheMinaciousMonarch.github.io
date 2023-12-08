@@ -1,11 +1,10 @@
-tags:
-- #theology_branch
-- #theology
 ---
-
-Go Home [[index]]
-[[Mary Mother of Jesus]]
-[[Immaculate Conception]]
+tags:
+  - theology_branch
+  - theology
+---
+[[Mary Mother of Jesus]] <br>
+[[Immaculate Conception]] <br>
 
 ---
 

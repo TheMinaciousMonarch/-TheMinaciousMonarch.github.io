@@ -1,11 +1,10 @@
-tags:
-- #seedling 
-- #scenario
 ---
-
-Go Home [[index]]
-[[Game Theory]]
-[[Collective Interest]]
+tags:
+  - seedling
+  - scenario
+---
+[[Game Theory]] <br>
+[[Collective Interest]] <br>
 
 ---
 

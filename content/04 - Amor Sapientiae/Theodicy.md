@@ -1,12 +1,11 @@
-tags:
-- #theology_branch
-- #theology
 ---
-
-Go Home [[index]]
-[[The Problem of Evil (Logical Version)]]
-[[The Problem of Evil]]
-[[God]]
+tags:
+  - theology_branch
+  - theology
+---
+[[The Problem of Evil (Logical Version)]] <br>
+[[The Problem of Evil]] <br>
+[[God]] <br>
 
 ---
 

@@ -1,12 +1,11 @@
-tags:
-- #seedling 
-- #theology
-- #argument 
 ---
-
-Go Home [[index]]
-[[Arguments for the Existence of God]]
-[[Leibniz]]
+tags:
+  - seedling
+  - theology
+  - argument
+---
+[[Arguments for the Existence of God]] <br>
+[[Leibniz]] <br>
 
 ---
 

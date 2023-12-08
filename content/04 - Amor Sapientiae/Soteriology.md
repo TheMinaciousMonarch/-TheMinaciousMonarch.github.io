@@ -1,12 +1,11 @@
-tags:
-- #theology_branch
-- #theology
 ---
-
-Go Home [[index]]
-[[Salvation]]
-[[Deliverance]]
-[[Sin]]
+tags:
+  - theology_branch
+  - theology
+---
+[[Salvation]] <br>
+[[Deliverance]] <br>
+[[Sin]] <br>
 
 ---
 

@@ -1,12 +1,11 @@
-tags:
-- #seedling 
-- #ethics
-- #theology 
-- #question
 ---
-
-Go Home [[index]]
-[[Origin of Morality]]
+tags:
+  - seedling
+  - ethics
+  - theology
+  - question
+---
+[[Origin of Morality]] <br>
 
 ---
 

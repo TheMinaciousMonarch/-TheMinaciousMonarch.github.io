@@ -1,9 +1,8 @@
-tags:
-- #index
-
 ---
-
-Go Home [[index]]
+tags:
+  - index
+---
+[[index|Go Home]]
 
 ---
 

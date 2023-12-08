@@ -1,9 +1,8 @@
-tags:
-- #theology_branch
-- #theology
 ---
-
-Go Home [[index]]
+tags:
+  - theology_branch
+  - theology
+---
 [[Angels]]
 
 ---

@@ -1,10 +1,9 @@
-tags:
-- #seedling 
-- #concept
 ---
-
-Go Home [[index]]
-[[Chaos Theory]]
+tags:
+  - seedling
+  - concept
+---
+[[Chaos Theory]] <br>
 
 ---
 

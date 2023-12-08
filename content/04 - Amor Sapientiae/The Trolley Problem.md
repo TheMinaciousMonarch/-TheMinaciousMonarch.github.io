@@ -1,11 +1,15 @@
+---
+
+---
+
 tags:
 - #seedling 
 - #ethics
 - #scenario 
+
 ---
 
-Go Home [[index]]
-[[Duty to Act]]
+[[Duty to Act]] <br>
 
 ---
 

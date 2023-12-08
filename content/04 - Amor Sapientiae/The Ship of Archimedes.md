@@ -1,10 +1,10 @@
+---
 tags:
-- #seedling 
+  - seedling
 ---
 
-Go Home [[index]]
-[[Archimedes]]
-[[Ancient Greek Stories]]
+[[Archimedes]] <br>
+[[Ancient Greek Stories]] <br>
 
 ---
 

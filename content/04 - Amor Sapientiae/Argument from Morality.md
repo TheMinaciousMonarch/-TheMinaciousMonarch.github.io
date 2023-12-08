@@ -1,13 +1,12 @@
-tags:
-- #seedling 
-- #ethics
-- #theology
-- #argument
 ---
-
-Go Home [[index]]
-[[Arguments for the Existence of God]]
-[[Objective Morality]]
+tags:
+  - seedling
+  - theology
+  - argument
+  - ethics
+---
+[[Arguments for the Existence of God]] <br>
+[[Objective Morality]] <br>
 
 ---
 

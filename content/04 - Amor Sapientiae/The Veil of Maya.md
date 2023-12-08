@@ -1,11 +1,10 @@
-tags:
-- #seedling 
-- #concept 
 ---
-
-Go Home [[index]]
-[[The World is Illusion]]
-[[Hindu Philsophy]]
+tags:
+  - seedling
+  - concept
+---
+[[The World is Illusion]] <br>
+[[Hindu Philosophy]] <br>
 
 ---
 

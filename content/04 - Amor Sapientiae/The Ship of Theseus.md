@@ -1,10 +1,9 @@
-tags:
-- #seedling 
-- #scenario
 ---
-
-Go Home [[index]]
-[[Ancient Greek Philosophy]]
+tags:
+  - seedling
+  - scenario
+---
+[[Ancient Greek Philosophy]] <br>
 
 ---
 

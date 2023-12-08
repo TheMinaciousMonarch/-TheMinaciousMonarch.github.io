@@ -1,11 +1,10 @@
-tags:
-- #seedling 
-- #theology
-- #argument 
 ---
-
-Go Home [[index]]
-[[Arguments Against the Existence of God]]
+tags:
+  - seedling
+  - theology
+  - argument
+---
+[[Arguments Against the Existence of God]] <br>
 
 ---
 

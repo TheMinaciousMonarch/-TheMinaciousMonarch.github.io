@@ -1,10 +1,9 @@
-tags:
-- #theology_branch
-- #theology
 ---
-
-Go Home [[index]]
-[[Jesus Christ]]
+tags:
+  - theology_branch
+  - theology
+---
+[[Jesus Christ]] <br>
 
 ---
 

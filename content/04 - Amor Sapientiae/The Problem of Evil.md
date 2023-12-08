@@ -1,13 +1,12 @@
-tags:
-- #seedling 
-- #theology
-- #ethics
-- #debate
 ---
-
-Go Home [[index]]
-[[Evil]]
-[[Good]]
+tags:
+  - seedling
+  - theology
+  - ethics
+  - debate
+---
+[[Evil]] <br>
+[[Good]] <br>
 
 ---
 

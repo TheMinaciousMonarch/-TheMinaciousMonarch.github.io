@@ -1,9 +1,8 @@
-tags:
-- #seedling 
 ---
-
-Go Home [[index]]
-[[Aid to Argumentation]]
+tags:
+  - seedling
+---
+[[Aid to Argumentation]] <br>
 
 ---
 

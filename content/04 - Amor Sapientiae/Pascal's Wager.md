@@ -1,10 +1,10 @@
+---
 tags:
-- #seedling 
-- #theology
-- #argument
+  - seedling
+  - theology
+  - argument
 ---
 
-Go Home [[index]] 
 
 ---
 

@@ -1,11 +1,10 @@
-tags:
-- #seedling 
-- #concept
 ---
-
-Go Home [[index]]
-[[Self-Interest Causes Harm]]
-[[Anti-Capitalist Arguments]]
+tags:
+  - seedling
+  - concept
+---
+[[Self-Interest Causes Harm]] <br>
+[[Anti-Capitalist Arguments]] <br>
 
 ---
 

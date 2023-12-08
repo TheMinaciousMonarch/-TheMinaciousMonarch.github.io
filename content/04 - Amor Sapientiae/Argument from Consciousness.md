@@ -1,11 +1,10 @@
-tags:
-- #seedling 
-- #argument 
 ---
-
-Go Home [[index]]
-[[Logical Fallacy]]
-[[Materialism]]
+tags:
+  - seedling
+  - argument
+---
+[[Logical Fallacy]] <br>
+[[Materialism]] <br>
 
 ---
 

@@ -1,12 +1,11 @@
-tags:
-- #seedling 
-- #theory 
-- #argument 
 ---
-
-Go Home [[index]]
-[[Thomas Aquinas]]
-[[Arguments for the Existence of God]]
+tags:
+  - seedling
+  - theology
+  - argument
+---
+[[Thomas Aquinas]] <br>
+[[Arguments for the Existence of God]] <br>
 
 ---
 

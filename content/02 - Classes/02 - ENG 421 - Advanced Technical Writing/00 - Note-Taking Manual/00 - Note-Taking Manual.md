@@ -1,11 +1,14 @@
-Go Up [[00 - Index/index]]
-#Index
+---
+tags:
+  - index
+---
+[[index|Go Home]]
 
 ---
 
 ## Purpose and Creation Philosophy
 
-This manual acts as a guide for those who haven't perfected their skills in note-taking. The intent of this manual is **not** to write exhaustively on all of the details and theories related to note-taking. I find that kind of excersize to be a feat of personal gain and pride rather than being useful for others. A hammer is a good tool because just about anyone can use it. Each word reduces the usability of a manual as each word increases the liklihood of someone discontinuing it. 
+This manual acts as a guide for those who haven't perfected their skills in note-taking. The intent of this manual is **not** to write exhaustively on all of the details and theories related to note-taking. I find that kind of exercize to be a feat of personal gain and pride rather than being useful for others. A hammer is a good tool because just about anyone can use it. Each word reduces the usability of a manual as each word increases the likelihood of someone discontinuing it. 
 
 ---
 
@@ -17,16 +20,16 @@ A version of this project has also been uploaded in PDF form and can be viewed h
 
 ## Content
 
-[[NTM - Page One]]
-[[NTM - Page Two]]
-[[NTM - Page Three]]
-[[NTM - Page Four]]
-[[NTM - Page Five]]
-[[NTM - Page Six]]
-[[NTM - Page Seven]]
-[[NTM - Page Eight]]
-[[NTM - Page Nine]]
-[[NTM - Page Ten]]
+[[NTM - Page One]] <br>
+[[NTM - Page Two]] <br>
+[[NTM - Page Three]] <br>
+[[NTM - Page Four]] <br>
+[[NTM - Page Five]] <br>
+[[NTM - Page Six]] <br>
+[[NTM - Page Seven]] <br>
+[[NTM - Page Eight]] <br>
+[[NTM - Page Nine]] <br>
+[[NTM - Page Ten]] <br>
 
 ---
 

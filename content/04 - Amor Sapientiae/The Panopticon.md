@@ -1,10 +1,9 @@
-tags:
-- #seedling 
-- #concept
 ---
-
-Go Home [[index]]
-[[People Behave Better When They Think They Are Being Seen]]
+tags:
+  - seedling
+  - scenario
+---
+[[People Behave Better When They Think They Are Being Seen]] <br>
 
 ---
 

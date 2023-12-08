@@ -1,14 +1,13 @@
-tags:
-- #theology_branch
-- #theology
 ---
-
-Go Home [[index]]
-[[Death]]
-[[Judgment]]
-[[Heaven]]
-[[Hell]]
-[[Destiny]]
+tags:
+  - theology_branch
+  - theology
+---
+[[Death]] <br>
+[[Judgment]] <br>
+[[Heaven]] <br>
+[[Hell]] <br>
+[[Destiny]] <br>
 
 ---
 

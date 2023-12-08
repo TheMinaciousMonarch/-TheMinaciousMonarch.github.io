@@ -14,14 +14,19 @@ This website is technically a [[What is a Blog|blog]], though I don't care for t
 ## Where To Go Now
 
 [[00 - Failure Diary]] - About Me
+
 [[00 - Mad Thoughts of a Feeble Mind]] - My Philosophy
+
 [[00 - The Sanctuary]] - An Index to the the Operation of this Site
+
 [[00 - Note-Taking Manual]] - A Guide to Help Someone Begin to Build the Skill of Note-Taking
 
 [[00 - The Walled Dream Wiki]] - A World-Building Project
+
 [[00 - Amor Sapientiae Wiki]] - A Wiki On Human Wisdom 
 
 [[00 - Media Log]] - Keeping Track of What I Have Watched
+
 [[00 - Reading Log]] - Keeping Track of What I have Read
 
 ---

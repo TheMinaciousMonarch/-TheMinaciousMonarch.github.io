@@ -1,4 +1,4 @@
-Go Up [[Website Index]]
+Go Up [[00 - Index/index]]
 #Index
 
 ---

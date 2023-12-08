@@ -1,3 +1,8 @@
+Go Home [[00 - Index/index]]
+#index
+
+---
+
 ## When the Dream Garden Was Born
 
 This is a personal worldbuilding effort which began with me being too lazy to learn the Forgotten Realms lore when a group of friends asked me to DM a Dungeons and Dragon's session. I compiled some names I had used when creating RPG characters from video games and I began the development of this world. The world has gone through many re-writes, though keeping many key moments and characters. The goal of this world, now that I do not utilize it for TTRPGs is to create as human and realistic of a world as the world allows. I may write stories for it, and have written a few, but the intent is far less grand than that. 

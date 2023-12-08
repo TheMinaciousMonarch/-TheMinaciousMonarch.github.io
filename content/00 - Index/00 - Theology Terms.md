@@ -1,3 +1,8 @@
+Go Home [[00 - Index/index]]
+#index
+
+---
+
 [[Angelology]] – The study of angels
 [[Bibliology]] – The study of the Bible
 [[Christology]] – The study of Christ

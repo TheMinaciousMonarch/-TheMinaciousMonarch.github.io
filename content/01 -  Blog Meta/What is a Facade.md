@@ -1,8 +1,5 @@
----
-title:
-draft:
 tags:
-#meta
+- #meta
 ---
 
 Go Home [[index]]

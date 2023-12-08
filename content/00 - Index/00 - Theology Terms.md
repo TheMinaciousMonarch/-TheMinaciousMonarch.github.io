@@ -1,6 +1,8 @@
 tags:
 - #index
 
+---
+
 Go Home [[index]]
 
 ---

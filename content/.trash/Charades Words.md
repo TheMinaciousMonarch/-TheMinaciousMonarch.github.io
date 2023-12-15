@@ -1,3 +1,0 @@
-
-Irony
-Ironía

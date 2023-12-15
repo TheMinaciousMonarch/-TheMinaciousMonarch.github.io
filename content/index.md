@@ -21,10 +21,3 @@ This website uses wikilinks which can be used to navigate between pages. Indexes
 [[00 - Note-Taking Manual]] - A Guide to Help Someone Begin to Build the Skill of Note-Taking <br>[[00 - The Walled Dream Wiki]] - A World-Building Project <br>[[00 - Amor Sapientiae Wiki]] - A Wiki On Human Wisdom <br>
 
 ---
-### List of Most Recently Modified Files 
-
-```dataview 
-TABLE dateformat(file.mtime, "dd.MM.yyyy HH:mm") AS "Last Modified" FROM "" SORT file.mtime DESC LIMIT 10
-```
-
----

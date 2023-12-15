@@ -1,20 +1,30 @@
-# Quartz v4
+---
+title: The Antechamber
+---
+"To attain knowledge, add more every day. To attain wisdom, remove more every day." - Lao Tzu
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+---
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## **Welcome to The Sanctuary**!
 
-**If you are looking for Quartz v3, you can find it on the [`hugo` branch](https://github.com/jackyzha0/quartz/tree/hugo).**
+This website uses wikilinks which can be used to navigate between pages. Indexes are notes which begin with "00" and these notes are meant to link to other notes or to describe something outside of the purpose of this wiki. 
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+---
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Where To Go Now
 
-## Sponsors
+### About Me
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+[[00 - Failure Diary]] - List of My Failures<br>[[00 - About Me]] - A Condensed Autobiography<br>[[00 - Media Log]] - Keeping Track of What I Have Watched <br>[[00 - Reading Log]] - Keeping Track of What I have Read 
+### Projects
+
+[[00 - Note-Taking Manual]] - A Guide to Help Someone Begin to Build the Skill of Note-Taking <br>[[00 - The Walled Dream Wiki]] - A World-Building Project <br>[[00 - Amor Sapientiae Wiki]] - A Wiki On Human Wisdom <br>
+
+---
+### List of Most Recently Modified Files 
+
+```dataview 
+TABLE dateformat(file.mtime, "dd.MM.yyyy HH:mm") AS "Last Modified" FROM "" SORT file.mtime DESC LIMIT 10
+```
+
+---

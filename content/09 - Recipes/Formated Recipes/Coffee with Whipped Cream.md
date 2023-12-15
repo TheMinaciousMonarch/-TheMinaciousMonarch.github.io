@@ -1,3 +1,4 @@
+![Coffee with whipped cream](https://i.dietdoctor.com/wp-content/uploads/2017/12/DD-353.jpg?auto=compress%2Cformat&w=1200&h=801&fit=crop)
 
 # Coffee with whipped cream
 

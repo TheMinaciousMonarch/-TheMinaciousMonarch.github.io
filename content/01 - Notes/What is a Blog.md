@@ -1,0 +1,6 @@
+---
+tags:
+  - seedling
+  - question
+---
+Definition: "website that contains online personal reflections, comments, and often hyperlinks, videos, and photographs provided by the writer" - https://www.merriam-webster.com/dictionary/blog

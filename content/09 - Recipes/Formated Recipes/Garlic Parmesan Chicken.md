@@ -1,5 +1,3 @@
-
-
 Garlic Parmesan Chicken
 
 #Recipe 

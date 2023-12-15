@@ -5,25 +5,26 @@ title: The Antechamber
 
 ---
 
-**Welcome to my Sanctuary**!
+## **Welcome to The Sanctuary**!
 
-This is a statically generated site based on markdown files used in Obsidian.md. You can think of it like a wiki. You can follow in-text links to other notes. You can also use the search bar or the graph to find new notes. 
-
-This library is hosted through [[GitHub Pages]] using [[Quartz]] and [[Obsidian]]. You can have your own site with the same structure and I highly encourage this. A goal with this site is to adapt it into a larger [[00 - Body of Human Knowledge|project]]. Which crosslinks the notes from those who create a site using the same program to have an incredibly large database of notes.
-
-This website is technically a [[What is a Blog|blog]], though I don't care for that name as when I think of blogs I think of a [[What is a Facade|facade]]. Marketing myself as someone other than myself seems like creating an image of myself that I want to be prideful of. I would rather discontinue this project than let it drive me to pride and I feel that blogs, masks, and pride go hand-in-hand.
+This website uses wikilinks which can be used to navigate between pages. Indexes are notes which begin with "00" and these notes are meant to link to other notes or to describe something outside of the purpose of this wiki. 
 
 ---
 
 ## Where To Go Now
 
-[[00 - Failure Diary]] - About Me <br>
-[[00 - Mad Thoughts of a Feeble Mind]] - My Philosophy <br>
-[[00 - The Sanctuary]] - An Index to the the Operation of this Site <br>
-[[00 - Note-Taking Manual]] - A Guide to Help Someone Begin to Build the Skill of Note-Taking <br>
-[[00 - The Walled Dream Wiki]] - A World-Building Project <br>
-[[00 - Amor Sapientiae Wiki]] - A Wiki On Human Wisdom <br>
-[[00 - Media Log]] - Keeping Track of What I Have Watched <br>
-[[00 - Reading Log]] - Keeping Track of What I have Read <br>
+### About Me
+
+[[00 - Failure Diary]] - List of My Failures<br>[[00 - About Me]] - A Condensed Autobiography<br>[[00 - Media Log]] - Keeping Track of What I Have Watched <br>[[00 - Reading Log]] - Keeping Track of What I have Read 
+### Projects
+
+[[00 - Note-Taking Manual]] - A Guide to Help Someone Begin to Build the Skill of Note-Taking <br>[[00 - The Walled Dream Wiki]] - A World-Building Project <br>[[00 - Amor Sapientiae Wiki]] - A Wiki On Human Wisdom <br>
+
+---
+### List of Most Recently Modified Files 
+
+```dataview 
+TABLE dateformat(file.mtime, "dd.MM.yyyy HH:mm") AS "Last Modified" FROM "" SORT file.mtime DESC LIMIT 10
+```
 
 ---

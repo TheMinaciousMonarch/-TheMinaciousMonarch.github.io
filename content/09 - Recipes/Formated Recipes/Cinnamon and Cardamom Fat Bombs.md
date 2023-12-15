@@ -1,3 +1,4 @@
+![Cinnamon and cardamom fat bombs](https://i.dietdoctor.com/wp-content/uploads/2016/05/DD-93.jpg?auto=compress%2Cformat&w=1200&h=801&fit=crop)
 
 # Cinnamon and cardamom fat bombs
 

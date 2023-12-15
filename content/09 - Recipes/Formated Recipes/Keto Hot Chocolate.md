@@ -1,4 +1,6 @@
 
+![Keto hot chocolate](https://i.dietdoctor.com/wp-content/uploads/2016/10/DD-186-1.jpg?auto=compress%2Cformat&w=1200&h=800&fit=crop)
+
 # Keto hot chocolate
 
 #Recipe 

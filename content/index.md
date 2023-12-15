@@ -7,7 +7,7 @@ title: The Antechamber
 
 ## **Welcome to The Sanctuary**!
 
-This website uses wikilinks which can be used to navigate between pages. Indexes are notes which begin with "00" and these notes are meant to link to other notes or to describe something outside of the purpose of this wiki. 
+This website uses wiki-links which can be used to navigate between pages. Indexes are notes which begin with "00" and these notes are meant to link to other notes or to describe something outside of the purpose of this wiki. 
 
 ---
 

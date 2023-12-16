@@ -15,7 +15,8 @@ This website uses wikilinks which can be used to navigate between pages. Indexes
 
 ### About Me
 
-[[00 - Failure Diary]] - List of My Failures<br>[[00 - About Me]] - A Condensed Autobiography<br>[[00 - Media Log]] - Keeping Track of What I Have Watched <br>[[00 - Reading Log]] - Keeping Track of What I have Read 
+[[00 - Failure Diary]] - List of My Failures<br>[[00 - About Me]] - A Condensed Autobiography<br>[[00 - Media Log]] - Keeping Track of What I Have Watched <br>[[00 - Reading Log]] - Keeping Track of What I have Read
+ 
 ### Projects
 
 [[00 - Note-Taking Manual]] - A Guide to Help Someone Begin to Build the Skill of Note-Taking <br>[[00 - The Walled Dream Wiki]] - A World-Building Project <br>[[00 - Amor Sapientiae Wiki]] - A Wiki On Human Wisdom <br>

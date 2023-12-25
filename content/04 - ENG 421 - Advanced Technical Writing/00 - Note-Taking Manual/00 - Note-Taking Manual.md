@@ -1,4 +1,4 @@
-Go Up [[00 - Blog Index]]
+Go Up [[00 - Mad Thoughts of a Feeble Mind]]
 #Index
 
 ---

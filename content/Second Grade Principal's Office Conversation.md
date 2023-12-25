@@ -1,0 +1,9 @@
+### Second Grade Principal's Office Conversation
+
+*Situation*: My first day at a new school was not the horror which many seem to think transferring leads to. I arrived to my new-second-grade-teacher's class and she had one of her good students give me a tour of the school. He and I got along and were good friends until around 2016. When lunchtime came around, another student and I were being rather rowdy. A principal came to the cafeteria and asked me to come to his office.
+
+*Conversation*: The principal wanted to know how my first day had been. I mentioned that I was worried that I was in trouble for horse-playing in the cafeteria. He said that he hadn't heard of any of that in instead just wanted to know how my first day had gone. I gave him a brief rundown of the day. The primary thing I remember is him saying that he wasn't going to punish me for misbehaving, especially since I admitted to it, and that my student record didn't show a history of poor behavior. He then added that it is important to think about the people we are friends with as we become like the people we associate with most. 
+
+*Lesson*: I considered what he said and realized that some people had obvious aspirational traits while others didn't. I didn't have a name for the traits that I liked but I could visualize how to emulate them. I also realized that those who had the strongest aspirational traits were typically adults. From then on, took care to evaluate my teachers and peers by the consequences of their decision and I would argue that this two minute conversation was foundational to my development.
+
+---

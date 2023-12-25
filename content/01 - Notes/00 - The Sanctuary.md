@@ -3,7 +3,7 @@ tags:
   - index
   - empty
 ---
-Go Home [[00 - Blog Index]]
+Go Home [[00 - Mad Thoughts of a Feeble Mind]]
 
 
 ---

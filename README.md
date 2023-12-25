@@ -15,7 +15,7 @@ This website uses wikilinks which can be used to navigate between pages. Indexes
 
 ### About Me
 
-[[00 - Failure Diary]] - List of My Failures<br>[[00 - About Me]] - A Condensed Autobiography<br>[[00 - Media Log]] - Keeping Track of What I Have Watched <br>[[00 - Reading Log]] - Keeping Track of What I have Read
+[[00 - Failure Diary]] - List of My Failures<br>[[About Me]] - A Condensed Autobiography<br>[[00 - Media Log]] - Keeping Track of What I Have Watched <br>[[00 - Reading Log]] - Keeping Track of What I have Read
  
 ### Projects
 
